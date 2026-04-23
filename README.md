@@ -33,11 +33,14 @@ Um projeto interativo que simula um seletor de cartas do universo Yu-Gi-Oh!, per
 └── responsivo.css    # Ajustes para dispositivos móveis
 ```
 ⚙️ Como Funciona o JS
+
 O script identifica o clique nos botões e gerencia o índice da carta atual:
-Remove a classe .selecionado da carta visível.
+Remove a classe selecionado da carta visível.
 Incrementa ou decrementa o contador cartaoAtual.
-Adiciona a classe .selecionado à nova carta, fazendo-a aparecer na tela.
+Adiciona a classe selecionado à nova carta, fazendo-a aparecer na tela.
+
 👨‍💻 Desenvolvedora
+
 Projeto desenvolvido por Giovanna durante treinamento de desenvolvimento web.
 GitHub: @gio488
 Email: giovannacaxias6@gmail.com
